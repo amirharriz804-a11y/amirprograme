@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	cout << "Hello" << '\n';
-	cout << "World!" << "endl";
+	cout << "World! " << "endl";
 	cout << "DITP" << endl;
 	cout << "1113/n";
 	cout << "Programming\\n";
